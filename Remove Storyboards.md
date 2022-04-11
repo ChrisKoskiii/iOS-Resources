@@ -2,7 +2,7 @@
 
 1. Delete the Main.storyboard and SceneDelegate files from the directory
 
- ![](/Users/christopherkoski/Desktop/DeleteMain.png)
+ ![](https://github.com/ChrisKoskiii/iOS-Resources/blob/main/docs/assets/images/DeleteMain.png)
 
 2. Using ⇧ ⌘ F, search for "Main"
 
