@@ -6,15 +6,15 @@
 
 2. Using ⇧ ⌘ F, search for "Main"
 
- ![](/Users/christopherkoski/Desktop/searchMain.png)
+ ![](https://github.com/ChrisKoskiii/iOS-Resources/blob/main/docs/assets/images/searchMain.png)
 
 3. Delete the Info.plist Values reference to Main
 
- ![](/Users/christopherkoski/Desktop/infoPlist1.png)
+ ![](https://github.com/ChrisKoskiii/iOS-Resources/blob/main/docs/assets/images/infoPlist1.png)
 
 4. Delete the Application Scene Manifest
 
- ![](/Users/christopherkoski/Desktop/sceneManifest.png)
+ ![](https://github.com/ChrisKoskiii/iOS-Resources/blob/main/docs/assets/images/sceneManifest.png)
 
 5. Delete everything in AppDelegate and replace with: 
 
